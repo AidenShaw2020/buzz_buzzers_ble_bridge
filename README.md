@@ -1,6 +1,7 @@
 It's creates bluetooth bridge between RPCSC3 on "Mac" and PS2 wired buzzers.
 
 What do you need:
+
 •	ESP32-S3 OTG
 •	Some USB connectors for create powered USB-C to USB-A, or bought it
 
